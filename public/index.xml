@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi Sono? :: BITWAIZ</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>BitWaiz è la pronuncia letterale di bitwise(ˈbitˌwīz), un termine tecnico in ambito informatico che si riferisce all’elaborazione dei dati “bit per bit”. Questo termine si collega all’espressione filosofica e popolare “un passo alla volta”, trasponendola nel contesto digitale: affrontare ogni sfida un bit alla volta.&#xA;L’approccio sottolinea l’importanza della pazienza (Be Patient) nel procedere con attenzione e precisione, ma anche della determinazione (But with Persistence). Così, pazienza e costanza diventano elementi fondamentali per raggiungere gli obiettivi più ambiziosi nel mondo della tecnologia.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
