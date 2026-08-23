@@ -1,6 +1,8 @@
 # Come proteggere i tuoi dati da minacce digitali: l'importanza del "threat hunting"
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -160,6 +162,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

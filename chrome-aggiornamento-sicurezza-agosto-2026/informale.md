@@ -1,0 +1,35 @@
+# Aggiornamento Chrome agosto 2026: sicurezza migliorata
+
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
+L'ultima versione di Chrome, uscita nel mese di agosto 2026, ha un aggiornamento di sicurezza che risolve due vulnerabilità critiche. È una buona notizia per tutti noi, vero?
+
+Secondo il sito di Malwarebytes, in questa versione sono state corrette due vulnerabilità critiche. È un passo importante per migliorare la protezione degli utenti.
+
+Ecco il link per i dettagli: [Aggiornamento Chrome Ora: due vulnerabilità critiche risolte](https://www.malwarebytes.com/it/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
+
+Inoltre, il sito [Chrome Releases: 2026](https://chromereleases.googleblog.com/2026/) conferma l'aggiornamento. È sempre meglio mantenere il browser aggiornato per proteggere i dati.
+
+## Domande frequenti
+
+### Come posso verificare che il mio Chrome sia aggiornato?
+
+Per verificare che il tuo Chrome sia aggiornato, apri il menu del browser (icona a tre punti in alto a destra) e seleziona "Informazioni sul browser". Lì potrai vedere la versione attualmente installata.
+
+### Quali controlli aggiuntivi devo eseguire dopo l'aggiornamento?
+
+Dopo l'aggiornamento, è consigliabile eseguire un'analisi di conformità e sicurezza per garantire che l'aggiornamento sia stato corretto e che non ci siano altre vulnerabilità.
+
+### Come posso informare i miei dipendenti sui passi necessari?
+
+Inviare un'email o un messaggio interno ai dipendenti con istruzioni chiare su come verificare e aggiornare il browser Chrome, e suggerire misure di sicurezza aggiuntive come l'utilizzo di password complesse e la disabilitazione di funzionalità non necessarie.
+
+
+
+## Fonti
+
+- [Aggiornamento Chrome Ora: due vulnerabilità critiche risolte](https://www.malwarebytes.com/it/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
+- [Chrome Releases: 2026](https://chromereleases.googleblog.com/2026/)
+- [Alert GCSA-26162 - Aggiornamento di sicurezza per Google Chrome](https://www.cert.garr.it/it/alert/security-alerts/alert-gcsa-26162-aggiornamento-di-sicurezza-per-google-chrome)

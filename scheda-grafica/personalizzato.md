@@ -1,6 +1,8 @@
 # Scheda grafica: la chiave per un rendimento ottimale
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -95,6 +97,8 @@ Una scheda grafica integrata consuma meno energia, riducendo i costi di riscalda
 
 ### Quali sono i limiti delle schede grafiche integrate?
 Le performance della scheda integrata possono essere limitate per le attività pesanti e il gioco. Non è adatta per videogiochi richiesti da grandi titoli o lavori professionali come l'editing video a alta definizione.
+
+
 
 
 
