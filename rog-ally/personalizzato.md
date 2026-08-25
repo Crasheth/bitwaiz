@@ -1,6 +1,8 @@
 # Intelligenza artificiale per la tua guida personale: il ROG Ally
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -104,6 +106,8 @@ Il ROG Ally rappresenta un passo avanti significativo non solo nel campo del gam
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

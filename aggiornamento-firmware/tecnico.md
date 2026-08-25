@@ -1,6 +1,8 @@
 # Aggiornamento firmware: come proteggere i sistemi da eventuali vulnerabilità
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -101,6 +103,8 @@ Il firmware è il software preinstallato nei dispositivi hardware. Se non viene 
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

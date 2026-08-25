@@ -1,6 +1,8 @@
 # Come proteggere l'Asus ROG Ally da attacchi cybercriminali
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -110,6 +112,8 @@ Implementare sistemi di monitoraggio come EDR (Endpoint Detection and Response) 
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 
