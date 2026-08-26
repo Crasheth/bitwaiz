@@ -1,6 +1,7 @@
 # Aggiornamenti sulla sicurezza informatica per agosto 2026: proteggere i sistemi criticamente
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -57,6 +58,7 @@ Gli aggiornamenti introdurranno l'obbligo di implementare soluzioni avanzate di 
 
 ### Come si possono preparare in anticipo?
 Le organizzazioni dovrebbero pianificare attivamente la transizione verso i nuovi standard, implementando piattaforme di deteczione in tempo reale e sistemi di sicurezza integrale (IPS).
+
 
 
 
