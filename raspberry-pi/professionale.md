@@ -1,6 +1,8 @@
 # Raspberry Pi: guida per progetti maker e IoT nel 2026
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -96,6 +98,8 @@ Il Raspberry Pi 4 ha un processore quad-core ARM Cortex-A72 a 1.5 GHz, 1 GB o 2 
 
 ### Come connettere il Raspberry Pi all'HDMI?
 Connetti il cavo HDMI del tuo monitor o TV al porto HDMI sul Raspberry Pi. Accendi il Raspberry Pi e seleziona la risoluzione video desiderata dal menu di avvio.
+
+
 
 
 

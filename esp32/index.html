@@ -8,11 +8,9 @@
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://bitwaiz.it/esp32/">
   <meta name="description" content="Cos&#x27;è l&#x27;ESP32 e perché è così usato nell&#x27;IoT? Chip, connettività e primi passi per programmarlo.">
-  <meta name="ai-generated" content="true">
-  <meta name="ai-content-declaration" content="AI-generated or AI-assisted text; automated editorial checks; publisher editorial responsibility. EU AI Act Art. 50.">
   <title>ESP32: microcontrollore Wi-Fi e Bluetooth per l&#x27;IoT | BITWAIZ</title>
   <script type="application/ld+json">
-{"@context": "https://schema.org", "@graph": [{"@type": "Article", "@id": "https://bitwaiz.it/esp32/#article", "headline": "ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT", "description": "Cos'è l'ESP32 e perché è così usato nell'IoT? Chip, connettività e primi passi per programmarlo.", "inLanguage": "it-IT", "isAccessibleForFree": true, "datePublished": "2026-07-11", "dateModified": "2026-07-11", "author": {"@type": "Person", "name": "Christian Cioffi"}, "publisher": {"@type": "Organization", "name": "BITWAIZ", "url": "https://bitwaiz.it", "logo": {"@type": "ImageObject", "url": "https://bitwaiz.it/favicon.png"}}, "articleSection": "Cloud & Infrastruttura", "url": "https://bitwaiz.it/esp32/", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://bitwaiz.it/esp32/"}, "additionalProperty": {"@type": "PropertyValue", "name": "aiContentDisclosure", "value": "AI-generated or AI-assisted text with automated editorial checks; publisher editorial responsibility (EU AI Act Art. 50)."}, "image": ["https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg"]}, {"@type": "BreadcrumbList", "@id": "https://bitwaiz.it/esp32/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bitwaiz.it/"}, {"@type": "ListItem", "position": 2, "name": "ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT", "item": "https://bitwaiz.it/esp32/"}]}, {"@type": "FAQPage", "@id": "https://bitwaiz.it/esp32/#faq", "mainEntity": [{"@type": "Question", "name": "Cos'è l'ESP32?", "acceptedAnswer": {"@type": "Answer", "text": "L'ESP32 è un microcontrollore multifunzione di Espressif Systems con Wi-Fi e Bluetooth integrati. È pensato per progetti IoT che richiedono connettività e processing locale."}}, {"@type": "Question", "name": "Come differisce l'ESP32 dall'ESP8266?", "acceptedAnswer": {"@type": "Answer", "text": "L'ESP32 offre due core, Bluetooth, più GPIO e più memoria rispetto all'ESP8266, che resta più economico ma meno versatile."}}, {"@type": "Question", "name": "Come programmare l'ESP32?", "acceptedAnswer": {"@type": "Answer", "text": "Si usa spesso Arduino IDE, ESP-IDF o PlatformIO con C/C++. Espressif e la community pubblicano guide e esempi per flash, debug e aggiornamenti OTA."}}]}]}
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "@id": "https://bitwaiz.it/esp32/#article", "headline": "ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT", "description": "Cos'è l'ESP32 e perché è così usato nell'IoT? Chip, connettività e primi passi per programmarlo.", "inLanguage": "it-IT", "isAccessibleForFree": true, "datePublished": "2026-07-11", "dateModified": "2026-07-11", "author": {"@type": "Person", "name": "Christian Cioffi"}, "publisher": {"@type": "Organization", "name": "BITWAIZ", "url": "https://bitwaiz.it", "logo": {"@type": "ImageObject", "url": "https://bitwaiz.it/favicon.png"}}, "articleSection": "Cloud & Infrastruttura", "url": "https://bitwaiz.it/esp32/", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://bitwaiz.it/esp32/"}, "image": ["https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg"]}, {"@type": "BreadcrumbList", "@id": "https://bitwaiz.it/esp32/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bitwaiz.it/"}, {"@type": "ListItem", "position": 2, "name": "ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT", "item": "https://bitwaiz.it/esp32/"}]}, {"@type": "FAQPage", "@id": "https://bitwaiz.it/esp32/#faq", "mainEntity": [{"@type": "Question", "name": "Cos'è l'ESP32?", "acceptedAnswer": {"@type": "Answer", "text": "L'ESP32 è un microcontrollore multifunzione di Espressif Systems con Wi-Fi e Bluetooth integrati. È pensato per progetti IoT che richiedono connettività e processing locale."}}, {"@type": "Question", "name": "Come differisce l'ESP32 dall'ESP8266?", "acceptedAnswer": {"@type": "Answer", "text": "L'ESP32 offre due core, Bluetooth, più GPIO e più memoria rispetto all'ESP8266, che resta più economico ma meno versatile."}}, {"@type": "Question", "name": "Come programmare l'ESP32?", "acceptedAnswer": {"@type": "Answer", "text": "Si usa spesso Arduino IDE, ESP-IDF o PlatformIO con C/C++. Espressif e la community pubblicano guide e esempi per flash, debug e aggiornamenti OTA."}}]}]}
 </script>
 </head>
 <body>
@@ -33,13 +31,12 @@
   <main class="article-layout">
     <a href="../#articoli" class="article-back">← Tutti gli articoli</a>
     <h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l&#x27;IoT</h1>
-    <aside class="ai-disclosure" role="note" data-ai-generated="true"><span class="ai-disclosure-label">Contenuto generato con AI</span> Questo articolo è stato redatto con sistemi di intelligenza artificiale e controlli editoriali automatizzati. La responsabilità editoriale è di BITWAIZ. <a href="../privacy.html#ai-act">Dettagli (AI Act)</a></aside>
     <p class="article-date">Pubblicato il 11 lug 2026</p>
     <p style="color:var(--fg-muted);margin:0.5rem 0;">Scegli il tono di lettura:</p>
     <div class="tone-btns"><button class="tone-btn" data-tone="divulgativo" type="button"><span class="tone-name">Divulgativo</span><span class="tone-desc">Accessibile, metafore e analogie</span></button><button class="tone-btn" data-tone="tecnico" type="button"><span class="tone-name">Tecnico</span><span class="tone-desc">Terminologia specialistica</span></button><button class="tone-btn" data-tone="informale" type="button"><span class="tone-name">Informale</span><span class="tone-desc">Conversazionale, stile chat</span></button><button class="tone-btn" data-tone="professionale" type="button"><span class="tone-name">Professionale</span><span class="tone-desc">Registro formale, report aziendali</span></button><button class="tone-btn" data-tone="personalizzato" type="button"><span class="tone-name">Personale</span><span class="tone-desc">A modo mio</span></button></div>
     <div class="article-body"><div class="tone-content" data-tone="divulgativo"><h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT</h1>
 <blockquote>
-<p>La tecnologia migliore è quella che scompare. — Mark Weiser.</p>
+<p>L'innovazione distingue un leader da un follower. — Steve Jobs.</p>
 </blockquote>
 <p><img alt="ESP32" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg" /></p>
 <h2>Introduzione</h2>
@@ -75,7 +72,7 @@
 <li><a href="https://www.az-delivery.de/it/collections/esp32">Schede ESP32 con Wlan e Bluetooth | AZ Delivery</a></li>
 </ul></div><div class="tone-content" data-tone="tecnico"><h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT</h1>
 <blockquote>
-<p>La tecnologia migliore è quella che scompare. — Mark Weiser.</p>
+<p>L'innovazione distingue un leader da un follower. — Steve Jobs.</p>
 </blockquote>
 <p>Il microcontrollore ESP32 è una soluzione popolare per applicazioni Internet delle cose (IoT) a causa della sua compattezza, prestazioni e costi contenuti. Tuttavia, la natura sempre più connessa di questi dispositivi introduce nuovi rischi di sicurezza che richiedono un approccio rigoroso alla protezione.</p>
 <p><img alt="ESP32" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg" /></p>
@@ -122,7 +119,7 @@
 <li><a href="https://www.az-delivery.de/it/collections/esp32">Schede ESP32 con Wlan e Bluetooth | AZ Delivery</a></li>
 </ul></div><div class="tone-content" data-tone="informale"><h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT</h1>
 <blockquote>
-<p>La tecnologia migliore è quella che scompare. — Mark Weiser.</p>
+<p>L'innovazione distingue un leader da un follower. — Steve Jobs.</p>
 </blockquote>
 <p>Tu sei a corto di idee per il tuo progetto del weekend? Vuoi capire cosa sia l'ESP32? Oppure hai bisogno di un piccolo microcontrollore da inserire nel tuo progetto di robotica? Questa guida ti aiuterà a iniziare con l'ESP32, un chip multiprotocollo popolare per i progetti DIY.</p>
 <p><img alt="ESP32" src="https://m.media-amazon.com/images/I/61xIBhl8t-L._AC_SL1500_.jpg" /></p>
@@ -148,7 +145,7 @@
 <li><a href="https://www.az-delivery.de/it/collections/esp32">Schede ESP32 con Wlan e Bluetooth | AZ Delivery</a></li>
 </ul></div><div class="tone-content" data-tone="professionale"><h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT</h1>
 <blockquote>
-<p>La tecnologia migliore è quella che scompare. — Mark Weiser.</p>
+<p>L'innovazione distingue un leader da un follower. — Steve Jobs.</p>
 </blockquote>
 <p>L'ESP32 è una microcontrollore integrata di Espressif Systems progettata per l'applicazione in Internet delle cose (IoT) e dispositivi embedded. Questo chip offre un equilibrio univoco tra prestazioni, funzionalità e costi, rendendolo popolare tra gli sviluppatori.</p>
 <p><img alt="ESP32" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg" /></p>
@@ -180,7 +177,7 @@
 <li><a href="https://www.az-delivery.de/it/collections/esp32">Schede ESP32 con Wlan e Bluetooth | AZ Delivery</a></li>
 </ul></div><div class="tone-content" data-tone="personalizzato"><h1>ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT</h1>
 <blockquote>
-<p>La tecnologia migliore è quella che scompare. — Mark Weiser.</p>
+<p>L'innovazione distingue un leader da un follower. — Steve Jobs.</p>
 </blockquote>
 <p>Il <strong>ESP32</strong> di Espressif Systems è diventato uno dei microcontrolatori più popolari per progetti IoT e applicazioni di smart home grazie alla sua combinazione di potenza computazionale, connettività Wi-Fi e Bluetooth, e basso costo. Tuttavia, con la crescente importanza della sicurezza digitale, è fondamentale garantire che il nostro dispositivo sia protetto contro eventuali minacce senza compromettere le sue prestazioni.</p>
 <p><img alt="ESP32" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg" /></p>
@@ -249,8 +246,6 @@
 </section>
   <footer class="footer">
     <p>© 2026 BITWAIZ — Be Patient, But With Persistence</p>
-    <p class="footer-legal"><a href="../privacy.html#privacy">Privacy</a> · <a href="../privacy.html#cookie">Cookie</a> · <a href="../privacy.html#ai-act">Trasparenza AI</a></p>
-    <p class="footer-cookie-note">Nessun cookie di profilazione. <a href="../privacy.html#cookie">Informativa cookie</a></p>
   </footer>
   <script>
     const btns = document.querySelectorAll('.tone-btn');

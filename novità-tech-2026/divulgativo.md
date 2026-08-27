@@ -1,6 +1,8 @@
 # Novità tecnologiche 2026: come prepararsi
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -103,6 +105,8 @@ Secondo le fonti, monitorare la rete in tempo reale e gestire le identità degli
 ### Qual'è l'importanza della formazione del personale?
 
 Può sembrare ovvio, ma la formazione continua è essenziale per tenersi aggiornati. Credetemi, non ci sono alternative a una buona istruzione quando si parla di sicurezza.
+
+
 
 
 
