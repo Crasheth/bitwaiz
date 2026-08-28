@@ -1,6 +1,8 @@
 # Intelligenza artificiale per la tua guida personale: il ROG Ally
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -111,6 +113,8 @@ Il ROG Ally rappresenta un passo avanti significativo non solo nel campo del gam
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

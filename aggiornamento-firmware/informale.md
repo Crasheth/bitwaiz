@@ -1,6 +1,8 @@
 # Aggiornamento firmware: perché e come farlo
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -102,6 +104,8 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 
