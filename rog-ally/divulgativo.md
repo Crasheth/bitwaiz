@@ -1,6 +1,8 @@
 # Come funziona l'ROG Ally e perché scegliermelo nel 2026
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -128,6 +130,8 @@ In sintesi, l'ROG Ally è un dispositivo ideale per chi cerca portabilità senza
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

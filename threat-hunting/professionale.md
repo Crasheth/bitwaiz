@@ -1,6 +1,8 @@
 # Introduzione alla sicurezza informatica: comprendere la minaccia e le soluzioni
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -162,6 +164,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Best Practice per la Sicurezza Cloud nel 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
 
 
 
@@ -58,6 +60,8 @@ La gestione delle vulnerabilità è cruciale per mantenere la sicurezza continua
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
 
 
 
