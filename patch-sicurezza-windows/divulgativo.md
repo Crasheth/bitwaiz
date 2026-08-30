@@ -1,6 +1,8 @@
 # Aggiornamenti di Sicurezza Estesi per Windows 10: Proteggi il Tuo PC Anche Dopo la Fine del Supporto Ufficiale
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -193,6 +195,8 @@ Gli ESU forniscono patch di sicurezza regolari direttamente da Microsoft, garant
 ### Cosa succede se non installo gli Aggiornamenti di Sicurezza Estesi?
 
 Se non installi gli ESU, il tuo sistema Windows 10 rimarrà vulnerabile alle ultime minacce informatiche. Questo può portare a violazioni della sicurezza, perdita di dati e interruzioni operative.
+
+
 
 
 

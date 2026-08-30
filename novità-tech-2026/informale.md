@@ -1,6 +1,8 @@
 # Novità tech 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -96,6 +98,8 @@ Secondo le fonti, monitorare la rete in tempo reale e gestire le identità degli
 ### Qual'è l'importanza della formazione del personale?
 
 Può sembrare ovvio, ma la formazione continua è essenziale per tenersi aggiornati. Credetemi, non ci sono alternative a una buona istruzione quando si parla di sicurezza.
+
+
 
 
 

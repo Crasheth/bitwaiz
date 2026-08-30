@@ -1,6 +1,8 @@
 # 7 nuove best practice di sicurezza cloud per 2026
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
+
 
 
 
@@ -72,6 +74,8 @@ La gestione sicura delle chiavi e dei segreti diventa fondamentale, con l'adozio
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
 
 
 

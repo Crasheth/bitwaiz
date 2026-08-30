@@ -1,0 +1,9 @@
+{
+  "seconds": 15.45,
+  "prompt": "Rispondi in italiano in massimo 40 parole: che cos'è un buffer overflow? Niente inglese, niente tag XML.",
+  "content": "Un buffer overflow è un errore di programmazione dove dati eccedono la memoria assegnata, causando crash o esecuzione non autorizzata di codice.",
+  "reasoning": "",
+  "think_tags": false,
+  "prompt_tokens": 41,
+  "completion_tokens": 38
+}

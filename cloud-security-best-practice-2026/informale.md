@@ -1,6 +1,8 @@
 # Cloud security best practice 2026
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
+
 
 
 
@@ -50,6 +52,8 @@ Costruisci una rete di **condivisione delle informazioni** con altri provider e 
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
 
 
 

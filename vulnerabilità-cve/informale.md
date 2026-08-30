@@ -1,6 +1,8 @@
 # Cos'è un CVE? E perché è importante per la sicurezza informatica
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -165,6 +167,8 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
 
 
 
