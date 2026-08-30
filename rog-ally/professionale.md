@@ -1,6 +1,8 @@
 # ROG Ally: Perché scegliere la console gaming più potente del 2023
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -106,6 +108,8 @@ Questo articolo è orientato ai decision makers e stakeholder che cercano inform
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

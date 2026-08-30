@@ -1,6 +1,8 @@
 # Best practice per la sicurezza del cloud nel 2026
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -70,6 +72,8 @@ La definizione di Indicatori Operativi (IOC) per monitorare le attività sospett
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
 
 
 
