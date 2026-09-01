@@ -5,8 +5,22 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:01:47 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>iPhone: Un dispositivo che riconosce la tecnologia e il design</title>
+    <link>https://bitwaiz.it/iphone/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/iphone/</guid>
+    <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[L’iPhone non è solo un telefono. È un oggetto che ha plasmato il nostro modo di vivere, lavorare e comunicare. Da quando Steve Jobs lo prese…]]></description>
+  </item>
+  <item>
+    <title>Analisi Malware: Stringhe, Header Embedded e Carving per Riconoscere Payloads Nascosti</title>
+    <link>https://bitwaiz.it/analisi-malware-stringhe-header-embedded-carving/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/analisi-malware-stringhe-header-embedded-carving/</guid>
+    <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[L’analisi di malware richiede una combinazione di strumenti, tecniche e attenzione ai dettagli. Quando si affronta un campione sospetto, le …]]></description>
+  </item>
   <item>
     <title>Aggiornamento Chrome agosto 2026: sicurezza migliorata</title>
     <link>https://bitwaiz.it/chrome-aggiornamento-sicurezza-agosto-2026/</link>
