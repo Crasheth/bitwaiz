@@ -1,6 +1,7 @@
 # Batterie Portatili: La Guida Definitiva per Capire Come Funzionano
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -334,6 +335,7 @@ Se scegli una batteria portatile di buona qualità, è improbabile che danneggi 
 ### Come faccio a sapere quando la mia batteria portatile è esaurita?
 
 La maggior parte delle batterie portatili ha un indicatore LED che mostra il livello di carica rimanente. Alcune batterie portatili hanno anche un display digitale che mostra la capacità della batteria in percentuale.
+
 
 
 

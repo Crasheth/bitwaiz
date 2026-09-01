@@ -1,6 +1,7 @@
 # IFA Berlin 2026 Tech: Innovazioni per tutti
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -61,6 +62,7 @@ Gli ospiti potranno interagire con prodotti che usano l'IA in modo più intuitiv
 ### Quali saranno le tendenze di design?
 
 Design futuristici, minimalisti e personalizzati con IA che adattano l'esperienza in base alle preferenze dell'utente.
+
 
 
 
