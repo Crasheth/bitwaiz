@@ -223,6 +223,8 @@
 
 
 
+
+
 Fenster zum digitalen Raum: Ein Blick auf Cybersecurity und die menschliche Komponente
 
 
@@ -274,6 +276,8 @@ I principali rischi includono malware, phishing, ransomware, attacchi di ingegne
 
 ### Come posso sapere se il mio dispositivo è stato compromesso?
 Puoi monitorare l'attività del tuo dispositivo, controllare il traffico di rete e utilizzare strumenti di scansione antivirus per rilevare eventuali minacce.
+
+
 
 
 
