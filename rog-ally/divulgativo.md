@@ -1,6 +1,7 @@
 # Come funziona l'ROG Ally e perché scegliermelo nel 2026
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -149,6 +150,7 @@ In sintesi, l'ROG Ally è un dispositivo ideale per chi cerca portabilità senza
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
 
 
 

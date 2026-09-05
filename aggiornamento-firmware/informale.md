@@ -1,6 +1,7 @@
 # Aggiornamento firmware: perché e come farlo
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -127,6 +128,7 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
 
 
 

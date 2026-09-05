@@ -1,6 +1,7 @@
 # GPU: Che cosa sono e perché contano
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -96,6 +97,7 @@ Una GPU è progettata per elaborare compiti paralleli, mentre il CPU gestisce le
 
 ### Come posso monitorare le GPU per identificare eventuali attacchi?
 Utilizza strumenti di EDR (Endpoint Detection and Response) e regolare threat hunting per analizzare l'utilizzo delle risorse GPU. Monitora i log e le tracce di rete per rilevare comportamenti sospetti.
+
 
 
 

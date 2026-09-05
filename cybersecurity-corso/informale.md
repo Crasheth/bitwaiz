@@ -1,6 +1,7 @@
 # Impara a Difenderti: La Guida Anti-Attacco per Non Principianti
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -334,6 +335,7 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
 
 
 

@@ -1,6 +1,7 @@
 # La sicurezza del hardware gaming: proteggere i tuoi componenti
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -93,6 +94,7 @@ Indicizzatori come l'attività anomala del disco, l'aumento improvviso della tem
 ### Quali sono i vantaggi della threat hunting nel contesto del hardware gaming?
 
 La threat hunting ti permette di identificare minacce in anticipo, attraverso l'analisi attiva dei log e delle attività sospette. Questa pratica può aiutarti a prevenire incidenti e a mantenere un ambiente sicuro.
+
 
 
 

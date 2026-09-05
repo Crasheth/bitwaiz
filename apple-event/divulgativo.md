@@ -1,6 +1,7 @@
 # Apple Events: come i messaggi fanno funzionare le app su Mac  
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -48,6 +49,7 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
 
 
 

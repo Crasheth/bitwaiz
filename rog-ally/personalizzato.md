@@ -1,6 +1,7 @@
 # Intelligenza artificiale per la tua guida personale: il ROG Ally
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -136,6 +137,7 @@ Il ROG Ally rappresenta un passo avanti significativo non solo nel campo del gam
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
 
 
 
