@@ -1,6 +1,8 @@
 # Come sfruttare al massimo la Steam Summer Sale 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -135,6 +137,8 @@ Sì, ma ricorda di controllare se ci sono aggiornamenti o versioni migliorate di
 
 ### Devo comprare subito per risparmiare?
 Non necessariamente. Alcuni giochi rimangono a sconto anche dopo la fine della vendita, ma non sempre.
+
+
 
 
 

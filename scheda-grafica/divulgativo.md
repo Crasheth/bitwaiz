@@ -1,6 +1,8 @@
 # Scheda grafica integrata vs dedicata: qual è la migliore per le tue esigenze? — 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -121,6 +123,8 @@ Una scheda grafica integrata consuma meno energia, riducendo i costi di riscalda
 
 ### Quali sono i limiti delle schede grafiche integrate?
 Le performance della scheda integrata possono essere limitate per le attività pesanti e il gioco. Non è adatta per videogiochi richiesti da grandi titoli o lavori professionali come l'editing video a alta definizione.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Aggiornamenti sicurezza informatica agosto 2026: che cambieranno il gioco
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -80,6 +82,8 @@ Gli aggiornamenti introdurranno l'obbligo di implementare soluzioni avanzate di 
 
 ### Come si possono preparare in anticipo?
 Le organizzazioni dovrebbero pianificare attivamente la transizione verso i nuovi standard, implementando piattaforme di deteczione in tempo reale e sistemi di sicurezza integrale (IPS).
+
+
 
 
 

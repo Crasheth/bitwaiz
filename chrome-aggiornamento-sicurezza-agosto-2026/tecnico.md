@@ -1,6 +1,8 @@
 # Aggiornamento Chrome Ora: due vulnerabilità critiche risolte — 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -87,6 +89,8 @@ Dopo l'aggiornamento, è consigliabile eseguire un'analisi di conformità e sicu
 ### Come posso informare i miei dipendenti sui passi necessari?
 
 Inviare un'email o un messaggio interno ai dipendenti con istruzioni chiare su come verificare e aggiornare il browser Chrome, e suggerire misure di sicurezza aggiuntive come l'utilizzo di password complesse e la disabilitazione di funzionalità non necessarie.
+
+
 
 
 

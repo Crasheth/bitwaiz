@@ -1,6 +1,8 @@
 # Come proteggere l'Asus ROG Ally da attacchi cybercriminali
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -143,6 +145,8 @@ Implementare sistemi di monitoraggio come EDR (Endpoint Detection and Response) 
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 
