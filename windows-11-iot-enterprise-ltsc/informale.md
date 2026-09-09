@@ -1,6 +1,9 @@
 # Windows 11 IoT Enterprise LTSC 2026: La Tua Base Solida per
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
 
 
 
@@ -265,6 +268,10 @@ Le fonti non forniscono dettagli specifici sui requisiti hardware, ma sottolinea
 ### Dove posso scaricare Windows 11 IoT Enterprise LTSC?
 
 Le fonti forniscono un link diretto al sito Microsoft per il download: [https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)
+
+
+
+
 
 
 

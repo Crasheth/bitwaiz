@@ -1,6 +1,9 @@
 # IFA Berlin 2026: Innovazione Tecnologica per Tutti
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
 
 
 
@@ -106,6 +109,10 @@ Gli ospiti potranno interagire con prodotti che usano l'IA in modo più intuitiv
 #### Quali saranno le tendenze di design?
 
 Design futuristici, minimalisti e personalizzati con IA che adattano l'esperienza in base alle preferenze dell'utente.
+
+
+
+
 
 
 

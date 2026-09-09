@@ -1,6 +1,9 @@
 # Sony Cuffie Bluetooth Wireless Wh Ch520
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
 
 
 
@@ -255,6 +258,10 @@ Sì, hanno una funzione di riduzione del rumore che aiuta a isolarti dal rumore 
 ### Sono impermeabili le Sony WH-CH520?
 
 No, non sono impermeabili. Sono resistenti a schizzi d'acqua, ma non dovrebbero essere immerse in acqua.
+
+
+
+
 
 
 

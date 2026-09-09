@@ -1,6 +1,9 @@
 # Webcam: Storia, Tecnologia e Futuro (2026)
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -251,6 +254,10 @@ Le webcam sono utilizzate in varie applicazioni, tra cui la sorveglianza, la sic
 
 ### Dove posso vedere le webcam in diretta?
 Esistono numerosi siti web che trasmettono video in diretta da webcam in tutto il mondo, come Skylinewebcams.com o Pontedilegno Tonale.
+
+
+
+
 
 
 

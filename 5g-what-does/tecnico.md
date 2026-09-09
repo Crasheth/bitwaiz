@@ -1,6 +1,10 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
 
 
 
@@ -282,6 +286,10 @@ Il 5G normale utilizza la tecnologia 5G di base, che offre comunque velocità si
 Puoi utilizzare app di test della velocità per confrontare le velocità di connessione con diverse reti.
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
+
+
 
 
 

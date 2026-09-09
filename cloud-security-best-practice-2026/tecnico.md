@@ -1,6 +1,10 @@
 # Best practice per la sicurezza del cloud nel 2026
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
+
+
 
 
 
@@ -88,6 +92,10 @@ La definizione di Indicatori Operativi (IOC) per monitorare le attività sospett
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
+
+
 
 
 

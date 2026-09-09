@@ -1,6 +1,9 @@
 # La sicurezza è un processo, non un prodotto. — Bruce Schneier
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 
 
@@ -181,6 +184,10 @@ Threat hunting è un processo manuale o semiammanco per identificare minacce non
 Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Response), SIEM (Security Information and Event Management) e analisi forensiche dei log.
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
+
+
 
 
 
