@@ -1,6 +1,10 @@
 # Impara a Difenderti: La Guida Anti-Attacco per Non Principianti
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
 
 
 
@@ -341,6 +345,10 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
+
+
+
 
 
 

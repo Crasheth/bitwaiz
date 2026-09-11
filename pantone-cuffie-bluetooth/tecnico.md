@@ -1,6 +1,10 @@
 # Considerazioni sull'ANC e sulla qualità audio
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
+
 
 
 
@@ -239,6 +243,10 @@ Il prezzo di queste cuffie è di 25,51 euro.
 ### Dove posso acquistare queste cuffie?
 
 Queste cuffie sono disponibili su Amazon e Ciaoone.
+
+
+
+
 
 
 

@@ -1,6 +1,10 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
+
 
 
 
@@ -276,6 +280,10 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
+
+
 
 
 

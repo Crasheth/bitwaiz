@@ -1,6 +1,10 @@
 # Intelligenza artificiale per la tua guida personale: il ROG Ally
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
 
 
 
@@ -142,6 +146,10 @@ Il ROG Ally rappresenta un passo avanti significativo non solo nel campo del gam
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
+
+
 
 
 

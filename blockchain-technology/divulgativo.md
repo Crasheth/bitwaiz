@@ -1,6 +1,10 @@
 # Blockchain: Un Registro Immutabile
 
-> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
 
 
 
@@ -423,6 +427,10 @@ Il concetto è simile al principio buddista del "non-attaccamento": una volta ch
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
+
+
 
 
 

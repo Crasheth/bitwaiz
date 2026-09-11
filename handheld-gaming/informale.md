@@ -1,6 +1,10 @@
 # Handheld gaming: un nuovo mondo di divertimento
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
 
 
 
@@ -131,6 +135,10 @@ I controlli essenziali includono la scansione regolare per malware, l'uso di ant
 ### Come si può gestire una compromissione dei dati nei dispositivi gaming handheld?
 
 In caso di compromissione, è fondamentale seguire un piano di risposta ai vettori di attacco. Questo include la notifica immediata degli utenti, l'isolamento del dispositivo e il ripristino dei dati da backup recenti.
+
+
+
+
 
 
 
